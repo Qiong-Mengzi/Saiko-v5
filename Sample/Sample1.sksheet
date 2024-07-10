@@ -1,0 +1,17 @@
+{
+    "version": "5.0.0",
+    "meta": {
+        "author": ["Qiong-Mengzi"],
+        "date": "Tue Jul 09 2024 15:38:24 GMT+0800"
+    },
+    "option": {
+        "octave": null,
+        "A4": 440,
+        "sr": 64000,
+        "format": "INT16",
+        "channel": 1,
+        "volume": 0.8,
+        "synth-curse": null,
+        ""
+    }
+}
